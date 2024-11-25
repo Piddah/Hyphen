@@ -1,0 +1,14 @@
+C:\Users\Hp\Desktop\C#\AssignmentHyphen\bin\Debug\net8.0\AssignmentHyphen.exe
+C:\Users\Hp\Desktop\C#\AssignmentHyphen\bin\Debug\net8.0\AssignmentHyphen.deps.json
+C:\Users\Hp\Desktop\C#\AssignmentHyphen\bin\Debug\net8.0\AssignmentHyphen.runtimeconfig.json
+C:\Users\Hp\Desktop\C#\AssignmentHyphen\bin\Debug\net8.0\AssignmentHyphen.dll
+C:\Users\Hp\Desktop\C#\AssignmentHyphen\bin\Debug\net8.0\AssignmentHyphen.pdb
+C:\Users\Hp\Desktop\C#\AssignmentHyphen\obj\Debug\net8.0\AssignmentHyphen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\C#\AssignmentHyphen\obj\Debug\net8.0\AssignmentHyphen.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\C#\AssignmentHyphen\obj\Debug\net8.0\AssignmentHyphen.AssemblyInfo.cs
+C:\Users\Hp\Desktop\C#\AssignmentHyphen\obj\Debug\net8.0\AssignmentHyphen.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\C#\AssignmentHyphen\obj\Debug\net8.0\AssignmentHyphen.dll
+C:\Users\Hp\Desktop\C#\AssignmentHyphen\obj\Debug\net8.0\refint\AssignmentHyphen.dll
+C:\Users\Hp\Desktop\C#\AssignmentHyphen\obj\Debug\net8.0\AssignmentHyphen.pdb
+C:\Users\Hp\Desktop\C#\AssignmentHyphen\obj\Debug\net8.0\AssignmentHyphen.genruntimeconfig.cache
+C:\Users\Hp\Desktop\C#\AssignmentHyphen\obj\Debug\net8.0\ref\AssignmentHyphen.dll
