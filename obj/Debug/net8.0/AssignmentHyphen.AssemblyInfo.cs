@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AssignmentHyphen")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1f0618cd4baf45e9cd0ff6586bd946ca830c0abf")]
 [assembly: System.Reflection.AssemblyProductAttribute("AssignmentHyphen")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AssignmentHyphen")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
