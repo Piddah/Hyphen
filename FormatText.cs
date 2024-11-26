@@ -29,23 +29,28 @@ public class FormatText
 
             else
                 MoveWordToNextLine(word);
-
         }
+
         updatedText += currentLine;
         return updatedText;
     }
+
+
     private bool FitsInCurrentLine()
     {
         return currentChar <= textWidth + looseLineLength;
     }
+
     private void AddWord(string word, string lineBreak = "")
     {
         currentLine += (currentLine.Length == 0 ? "" : " ") + word + lineBreak;
     }
+
     private void GetCurrentChar(string word)
     {
         currentChar = currentLine.Length + word.Length + (currentLine.Length > 0 ? 1 : 0);
     }
+
     private bool ShouldUseHyphen(string word, int minWordLength = 6, int minLettersAfterHyphen = 2, int minLettersBeforeHyphen = 2)
     {
         if (!char.IsLetter(word[^1]) && minLettersAfterHyphen <= 2)
@@ -60,6 +65,7 @@ public class FormatText
         availableBeforeHyphen >= minLettersBeforeHyphen &&
         availableAfterHyphen >= minLettersAfterHyphen;
     }
+
     private void ApplyHyphen(string word)
     {
         int splitIndex = textWidth - currentLine.Length - 1 + looseLineLength;
